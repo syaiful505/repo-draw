@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="818" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="14" value="&lt;b&gt;Server HeSoft Solutions&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="339" y="100" width="620.5" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Architecture: Loewes ERP Infrastructure" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="Architecture: Loewes ERP Infrastructure&amp;nbsp;" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
           <mxGeometry x="209.5" y="40" width="750" height="40" as="geometry" />
         </mxCell>
         <mxCell id="566" value="VM DEV ODOO" style="strokeColor=#dddddd;fillColor=#ffffff;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;html=1;" parent="1" vertex="1">
@@ -156,6 +156,12 @@
             <mxPoint x="530" y="350" as="sourcePoint" />
             <mxPoint x="580" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="48QG2XxYC-umUv1Hc6i--625" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Requirements&lt;/h1&gt;&lt;p&gt;2 threads, 2GB Ram 250 Storage&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750.5" y="630" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="48QG2XxYC-umUv1Hc6i--626" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Formula&lt;/h1&gt;&lt;p&gt;Estimated Worker = 2&lt;/p&gt;&lt;p&gt;2x((0,8*150)+(0,2*1024))&lt;/p&gt;&lt;p&gt;649 MB RAM&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="730" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
